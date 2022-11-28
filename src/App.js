@@ -1,13 +1,13 @@
 import './App.css';
 import About from './About.js'
-import Info from './info.js'
+import Info from './Info.js'
 import Footer from './Footer.js'
 import Interest from './Interest' 
 
 
 function App() {
   return (
-<div>
+<div className='app'>
   <Info/>
   <About/>
   <Interest/>
