@@ -2,11 +2,10 @@ import React from "react"
 
 function Footer(){
     return (
-       <div>
        <ul>
         <li></li>
        </ul>
-       </div>
+       
     )
 }
 
