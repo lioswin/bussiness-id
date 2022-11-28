@@ -10,6 +10,9 @@ body{
   max-width: 500px;
   border-top-left-radius: 5%;
   border-top-right-radius: 5%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  /* border-radius: 0px 0px 10px 10px; */
   /* box-shadow: 20px 20px #96a8cc; */
 }
 
@@ -20,7 +23,7 @@ body{
   height: 20%;
   max-width: 500px;
   border-top-left-radius: 5%;
-  border-top-right-radius: 5%
+  border-top-right-radius: 5%;
 }
 
 .container-name{
